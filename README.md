@@ -1,3 +1,3 @@
-# Skyline-ICT-Consult
+# Skyline-ICT-Consult-Training
 This is Skyline ICT Consult Training Repo
 This is my first Repo
